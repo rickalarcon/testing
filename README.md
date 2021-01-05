@@ -2,10 +2,8 @@
 
 # Demo
 
-![Demo](https://user-images.githubusercontent.com/35351964/103594586-f1532980-4ead-11eb-9320-bdc4037205a2.gif)
+![Demo](https://user-images.githubusercontent.com/35351964/103596728-6d9c3b80-4eb3-11eb-97d0-3e0280059526.gif)
 
-
-This application demonstrates the following technologies.
 
 * [Express](https://expressjs.com/) - a wonderful Node.js application framework
 * [PostgreSQL](https://www.postgresql.org/) - a popular relational database
@@ -23,6 +21,8 @@ This application demonstrates the following technologies.
 
 ## Design
 
+![Design](https://user-images.githubusercontent.com/35351964/103597138-514cce80-4eb4-11eb-9595-94bcf82b2595.png)
+This application demonstrates the following technologies.
 
 
 
