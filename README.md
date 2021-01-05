@@ -2,7 +2,9 @@
 
 # Demo
 
-https://user-images.githubusercontent.com/35351964/103594444-91f51980-4ead-11eb-923b-444f6b3db82b.mov
+![Demo](https://user-images.githubusercontent.com/35351964/103594444-91f51980-4ead-11eb-923b-444f6b3db82b.mov)
+
+![Demo](https://user-images.githubusercontent.com/35351964/103594586-f1532980-4ead-11eb-9320-bdc4037205a2.gif)
 
 
 This application demonstrates the following technologies.
