@@ -2,7 +2,7 @@
 
 # Node.js 
 
-![Demo](https://user-images.githubusercontent.com/35351964/103594586-f1532980-4ead-11eb-9320-bdc4037205a2.gif =250x250)
+![Demo](https://user-images.githubusercontent.com/35351964/103594586-f1532980-4ead-11eb-9320-bdc4037205a2.gif | 250x250)
 
 This application demonstrates the following technologies.
 
