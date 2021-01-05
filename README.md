@@ -4,12 +4,13 @@
 
 ![Demo](https://user-images.githubusercontent.com/35351964/103596728-6d9c3b80-4eb3-11eb-97d0-3e0280059526.gif)
 
+This application demonstrates the following technologies:
 
 * [Express](https://expressjs.com/) - a wonderful Node.js application framework
 * [PostgreSQL](https://www.postgresql.org/) - a popular relational database
 * [Node-Postgres](https://node-postgres.com/) - a PostgreSQL client for Node.js
 * [EJS](https://ejs.co/) - a great template library for server-side HTML templates
-* [BootStrap](https://getbootstrap.com/) - a popular CSS framework
+* [Bootstrap](https://getbootstrap.com/) - a popular CSS framework
 
 
 ## Install and Configuration
@@ -22,7 +23,6 @@
 ## Design
 
 ![Design](https://user-images.githubusercontent.com/35351964/103597138-514cce80-4eb4-11eb-9595-94bcf82b2595.png)
-This application demonstrates the following technologies.
 
 
 
